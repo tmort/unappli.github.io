@@ -656,4 +656,11 @@
 	"url": "https://tlk.io",
 	"thumbnail": "https://i.ibb.co/54KnNjj/tlk-io.png",
 	"tags": ["web"]
+},
+{
+	"name": "Todometer",
+	"description": "A meter-based to-do list for your desktop.",
+	"url": "https://cassidoo.github.io/todometer/",
+	"thumbnail": "https://i.ibb.co/dMqvJYf/logo128.png",
+	"tags": ["mac","windows","linux"]
 }]
